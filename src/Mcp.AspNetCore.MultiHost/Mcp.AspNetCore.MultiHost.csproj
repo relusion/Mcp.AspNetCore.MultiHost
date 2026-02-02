@@ -14,8 +14,8 @@
     <Description>Host multiple MCP (Model Context Protocol) servers with distinct tool sets and configurations in a single ASP.NET Core application.</Description>
     <PackageTags>mcp;model-context-protocol;aspnetcore;multi-host;ai;tools</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/your-repo/Mcp.AspNetCore.MultiHost</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/your-repo/Mcp.AspNetCore.MultiHost</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/relusion/Mcp.AspNetCore.MultiHost</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/relusion/Mcp.AspNetCore.MultiHost</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageReadmeFile>README.md</PackageReadmeFile>
 
