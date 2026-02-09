@@ -183,7 +183,7 @@ app.MapGet("/admin/hosts", (IMcpHostRegistry registry) =>
 ## Requirements
 
 - .NET 8.0 or later
-- ModelContextProtocol.AspNetCore 0.1.0 or later
+- ModelContextProtocol.AspNetCore 0.8.0-preview.1 or later
 
 ## Architecture
 

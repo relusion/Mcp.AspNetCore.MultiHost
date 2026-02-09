@@ -42,7 +42,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Technical Details
 
 - Targets .NET 8.0 and .NET 9.0
-- Depends on ModelContextProtocol.AspNetCore 0.1.0-preview.10
+- Depends on ModelContextProtocol.AspNetCore 0.8.0-preview.1
 - Uses proxy pattern for endpoint route builder integration
 - Per-host DI containers with service provider validation in Development
 
